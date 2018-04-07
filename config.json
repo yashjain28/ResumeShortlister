@@ -1,0 +1,8 @@
+{
+   "threshold": 5,
+   "keyword_to_score": {
+        "iot":1,
+        "coap":2,
+        "angularjs":100
+    }
+}
