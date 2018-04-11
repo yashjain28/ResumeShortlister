@@ -19,7 +19,8 @@ Clone this repository into your local-PC and extract it. Go to config.json file 
     }
 }
 ``` 
-Set your required threshold based on the keywords and their weight you set.
+Set your required threshold based on the keywords and their weight you set. 
+Make sure all the .pdf files you want to look into are in this folder as well. 
 
 Then just run `./shortList.sh`
 
